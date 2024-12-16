@@ -14,7 +14,7 @@
 - **JavaScript** for interactivity and functionality.                
                            
 ## Live Demo                 
-Check out the live website: [Piece of Cake]([https://your-live-url-here.com](https://aseel-alnaami.github.io/FinalJSTask/)                   
+Check out the live website: [Piece of Cake]([https://aseel-alnaami.github.io/FinalJSTask/])                   
 
                   
 ![home](home.PNG) 
