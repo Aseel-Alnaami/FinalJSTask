@@ -1,4 +1,3 @@
-﻿# FinalJSTask    
  # Piece of Cake 🍰    
 
 **Piece of Cake** is a responsive restaurant website designed to showcase a delightful dining experience. It features three main pages:    
